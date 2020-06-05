@@ -1,0 +1,13 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\bin\Debug\netcoreapp3.1\Objektgenerator.exe
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\bin\Debug\netcoreapp3.1\Objektgenerator.deps.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\bin\Debug\netcoreapp3.1\Objektgenerator.runtimeconfig.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\bin\Debug\netcoreapp3.1\Objektgenerator.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\bin\Debug\netcoreapp3.1\Objektgenerator.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\bin\Debug\netcoreapp3.1\Objektgenerator.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\obj\Debug\netcoreapp3.1\Objektgenerator.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\obj\Debug\netcoreapp3.1\Objektgenerator.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\obj\Debug\netcoreapp3.1\Objektgenerator.AssemblyInfo.cs
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\obj\Debug\netcoreapp3.1\Objektgenerator.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\obj\Debug\netcoreapp3.1\Objektgenerator.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\obj\Debug\netcoreapp3.1\Objektgenerator.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_7\Objektgenerator\Objektgenerator\obj\Debug\netcoreapp3.1\Objektgenerator.genruntimeconfig.cache

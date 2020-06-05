@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uO3tgfLPao8cFZb6zIXcDkOdCn/Znl2LNTJe5+nvsfMHVcrakzYHXixKGZTw6foqKegtL9NaL2IxwoalMC6GzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_7\\Objektgenerator\\Objektgenerator\\Objektgenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
